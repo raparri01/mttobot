@@ -1,0 +1,26 @@
+{
+  "name": "mttrbot",
+  "version": "1.0.0",
+  "description": "Bot to make posts to /r/ morethantheoriginal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raparri01/mttrbot.git"
+  },
+  "author": "Robert Aparri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raparri01/mttrbot/issues"
+  },
+  "homepage": "https://github.com/raparri01/mttrbot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.1.0",
+    "jimp": "^0.6.0",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.2"
+  }
+}
